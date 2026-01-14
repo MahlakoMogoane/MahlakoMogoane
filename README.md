@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Mahlako Mogoane! 👋 
 
-<!--
-**MahlakoMogoane/MahlakoMogoane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Security-Minded XR Developer | Full-Stack Software Engineer
 
-Here are some ideas to get you started:
+I am a **BSc Computer Science & Informatics** graduate from the University of Johannesburg. I specialize in bridging the gap between complex **backend logic** and immersive **user-centric frontend experiences**. My mission is to build the next generation of Extended Reality (XR) applications with a "Security-First" architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+* 🎮 **Professional XR Experience:** Formerly a VR Developer at the University of Johannesburg APB Library. I built immersive AR apps integrating **Firebase**, **ASP.NET APIs**, and **GPS navigation**.
+* 🛡️ **Security-First Focus:** Leveraging my background in **Java Networking** and **ASP.NET** to explore secure spatial computing and hardened multiplayer backends.
+* 💻 **Full-Stack Roots:** Experienced in building responsive web platforms and scalable solutions using **C#**, **Python**, and **SQL**.
+* 🏅 **Member:** Student Member of **IITPSA** and the **UJ Developer Society**.
+
+---
+
+## 🛠 Tech Stack
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Immersive (AR/VR)** | Unity, C#, Firebase, Location-Based Services |
+| **Backend & Security** | ASP.NET, Java Networking, Python, MSSQL |
+| **Frontend/Web** | HTML5, CSS3, JavaScript, Bootstrap |
+| **Methodologies** | ITIL Framework, SEO Optimization, UI/UX Development |
+
+---
+
+## 🌌 Featured Projects
+### 🧠 NeuroSTEM - AR & AI EdTech Platform
+An innovative educational program designed for South African students to visualize and master complex STEM subjects.
+* **Tech Stack:** Unity (AR), C#, Integrated AI for personalized learning.
+* **Impact:** Bridges the educational gap by turning abstract STEM concepts into interactive, 3D visualizations.
+  
+### 📱 [UJQuest](https://github.com/APBVR/UJ-Quest) - AR Location-Based Game
+An AR-based gamified campus navigation app for Android.
+* **Security & Tech:** Utilized **Firebase Authentication** and **Unity WebRequest** for secure, real-time data handling.
+* **Impact:** Optimized performance for seamless interactive AR environments.
+
+### ⚖️ [SAICA Ethics Quest] - Desktop First-Person Game
+An interactive ethics game designed for SAICA to promote ethical decision-making.
+* **Focus:** Interactive storytelling, team-based collaboration, and UI/UX development.
+
+---
+
+## 📈 Stats & Certifications
+* 🛡️ **Cisco Certified:** Introduction to Cybersecurity
+* 🛠️ **Microsoft Certified:** Foundational C# (2025)
+* 🎓 **Bootcamp:** Programming and GRIT (2024)
+
+
+## 📫 Connect with me
+* 📍 **Location:** Midrand, South Africa
+* 💼 **LinkedIn:** [Mahlako Mogoane](https://www.linkedin.com/in/mahlako-mogoane-807268315/)
+* 📧 **Email:** [mahlakomogoane@outlook.com](mailto:mahlakomogoane@outlook.com)
+
+---
+*"Pioneering best practices in XR development and secure software architecture."*
