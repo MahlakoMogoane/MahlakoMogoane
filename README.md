@@ -39,6 +39,13 @@ An AR-based gamified campus navigation app for Android.
 An interactive ethics game designed for SAICA to promote ethical decision-making.
 * **Focus:** Interactive storytelling, team-based collaboration, and UI/UX development.
 
+### [TrackWise](https://adam.uj.ac.za/projectsday/?page=projects&type=teams&no=24) - IoT Asset Manager using RFID
+A smart equipment management solution built with a modern stack (.NET Core, React, and MySQL) that integrates IoT hardware for live asset tracking.
+Hybrid Tracking: Uses cost-effective QR codes for standard check-ins/outs and NFC tags for real-time location monitoring of high-priority items.
+Key Features: Real-time dashboard (SignalR), automated calibration/maintenance alerts, smart reservation workflows, and detailed compliance reporting.
+Goal: To replace manual logging with an automated system that ensures ISO 9001 and MIL-STD compliance.****
+
+![GadgetGrid winning an Award](https://media.licdn.com/dms/image/v2/D4D22AQHsGbn8jkNq9g/feedshare-shrink_2048_1536/B4DZn_xoohGwAw-/0/1760932830645?e=1770249600&v=beta&t=WDLTCgIibjTJaXn2fft97-Rndw8kZjRpNOv9OItkg-o)
 ---
 
 ## 📈 Stats & Certifications
