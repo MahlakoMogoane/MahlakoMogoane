@@ -19,7 +19,7 @@ I am a **BSc Computer Science & Informatics** graduate from the University of Jo
 | :--- | :--- |
 | **Immersive (AR/VR)** | Unity, C#, Firebase, Location-Based Services |
 | **Backend & Security** | ASP.NET, Java Networking, Python, MSSQL |
-| **Frontend/Web** | HTML5, CSS3, JavaScript, Bootstrap |
+| **Frontend/Web** | HTML5, CSS3, JavaScript, Bootstrap, React |
 | **Methodologies** | ITIL Framework, SEO Optimization, UI/UX Development |
 
 ---
