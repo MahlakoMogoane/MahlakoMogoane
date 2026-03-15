@@ -1,63 +1,165 @@
-# Hi there, I'm Mahlako Mogoane! 👋 
+# 👋 Hi, I'm Mahlako Mogoane
 
-### 🛡️ Security-Minded XR Developer | Full-Stack Software Engineer
-
-I am a **BSc Computer Science & Informatics** graduate from the University of Johannesburg. I specialize in bridging the gap between complex **backend logic** and immersive **user-centric frontend experiences**. My mission is to build the next generation of Extended Reality (XR) applications with a "Security-First" architecture.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=36BCF7&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;C%23+%7C+.NET+%7C+React+%7C+Express;XR+%2F+AR+Developer;Security-Minded+Backend+Engineer" />
+</p>
 
 ---
 
 ## 🚀 About Me
-* 🎮 **Professional XR Experience:** Formerly a VR Developer at the University of Johannesburg APB Library. I built immersive AR apps integrating **Firebase**, **ASP.NET APIs**, and **GPS navigation**.
-* 🛡️ **Security-First Focus:** Leveraging my background in **Java Networking** and **ASP.NET** to explore secure spatial computing and hardened multiplayer backends.
-* 💻 **Full-Stack Roots:** Experienced in building responsive web platforms and scalable solutions using **C#**, **Python**, and **SQL**.
-* 🏅 **Member:** Student Member of **IITPSA** and the **UJ Developer Society**.
+
+I’m a **Full-Stack Software Engineer** and **XR developer** based in Johannesburg, South Africa.
+
+I specialize in building **secure backend systems and immersive frontend experiences**, combining traditional web technologies with **AR/VR and spatial computing**.
+
+My focus is on developing **scalable APIs, secure application architecture, and interactive digital experiences**.
+
+- 🎓 BSc Computer Science & Informatics — University of Johannesburg  
+- 💼 Junior Developer at **NeuroVerse**  
+- 🕶 Former XR Developer at **UJ APB Library**  
+- 🔐 Interested in **secure backend architecture and cybersecurity**  
+- 🌍 Based in **Johannesburg, South Africa**
 
 ---
 
-## 🛠 Tech Stack
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Immersive (AR/VR)** | Unity, C#, Firebase, Location-Based Services |
-| **Backend & Security** | ASP.NET, Java Networking, Python, MSSQL |
-| **Frontend/Web** | HTML5, CSS3, JavaScript, Bootstrap, React |
-| **Methodologies** | ITIL Framework, SEO Optimization, UI/UX Development |
+# 🔭 What I'm Currently Working On
+
+### 📝 Form Builder & Digital Signing Platform
+A system enabling professionals to create and distribute digital forms with signatures and identity verification.
+
+**Stack**
+React • TypeScript • Express • Supabase • PostgreSQL
 
 ---
 
-## 🌌 Featured Projects
-### 🧠 NeuroSTEM - AR & AI EdTech Platform
-An innovative educational program designed for South African students to visualize and master complex STEM subjects.
-* **Tech Stack:** Unity (AR), C#, Integrated AI for personalized learning.
-* **Impact:** Bridges the educational gap by turning abstract STEM concepts into interactive, 3D visualizations.
-  
-### 📱 [UJQuest](https://github.com/APBVR/UJ-Quest) - AR Location-Based Game
-An AR-based gamified campus navigation app for Android.
-* **Security & Tech:** Utilized **Firebase Authentication** and **Unity WebRequest** for secure, real-time data handling.
-* **Impact:** Optimized performance for seamless interactive AR environments.
+# 🧠 Tech Stack
 
-### ⚖️ [SAICA Ethics Quest] - Desktop First-Person Game
-An interactive ethics game designed for SAICA to promote ethical decision-making.
-* **Focus:** Interactive storytelling, team-based collaboration, and UI/UX development.
+### Languages
+C#  
+JavaScript  
+TypeScript  
+Python  
+SQL
 
-### [TrackWise](https://adam.uj.ac.za/projectsday/?page=projects&type=teams&no=24) - IoT Asset Manager using RFID
-A smart equipment management solution built with a modern stack (.NET Core, React, and MySQL) that integrates IoT hardware for live asset tracking.
-Hybrid Tracking: Uses cost-effective QR codes for standard check-ins/outs and NFC tags for real-time location monitoring of high-priority items.
-Key Features: Real-time dashboard (SignalR), automated calibration/maintenance alerts, smart reservation workflows, and detailed compliance reporting.
-Goal: To replace manual logging with an automated system that ensures ISO 9001 and MIL-STD compliance.****
+### Backend
+ASP.NET Core  
+Express.js  
+Node.js  
+REST API Development  
+JWT Authentication  
+Middleware Architecture
 
-![GadgetGrid winning an Award](https://media.licdn.com/dms/image/v2/D4D22AQHsGbn8jkNq9g/feedshare-shrink_2048_1536/B4DZn_xoohGwAw-/0/1760932830645?e=1770249600&v=beta&t=WDLTCgIibjTJaXn2fft97-Rndw8kZjRpNOv9OItkg-o)
+### Frontend
+React  
+HTML5  
+CSS3  
+Responsive UI Development  
+REST API Integration
+
+### Databases & Cloud
+PostgreSQL  
+Supabase  
+MySQL  
+Firebase
+
+### Tools & Dev Environment
+Git / GitHub  
+Docker  
+Postman  
+Swagger  
+VS Code
+Firebase
+
+### Immersive Development
+Unity  
+AR Development  
+XR / Spatial Computing  
+Location-Based Applications
+
 ---
 
-## 📈 Stats & Certifications
-* 🛡️ **Cisco Certified:** Introduction to Cybersecurity
-* 🛠️ **Microsoft Certified:** Foundational C# (2025)
-* 🎓 **Bootcamp:** Programming and GRIT (2024)
+# 🌌 Featured Projects
 
+### 🧠 NeuroSTEM — AR Education Platform
+An immersive AR learning platform helping students visualize complex STEM concepts.
 
-## 📫 Connect with me
-* 📍 **Location:** Midrand, South Africa
-* 💼 **LinkedIn:** [Mahlako Mogoane](https://www.linkedin.com/in/mahlako-mogoane-807268315/)
-* 📧 **Email:** [mahlakomogoane@outlook.com](mailto:mahlakomogoane@outlook.com)
+**Tech:** Unity, C#, AI integration
 
 ---
-*"Pioneering best practices in XR development and secure software architecture."*
+
+### 📱 UJQuest — AR Location-Based Scavenger Hunt Game
+A gamified campus exploration app using GPS and AR markers.
+
+**Tech:** Unity, Firebase Authentication, ASP.NET APIs
+
+---
+
+### 📝 Digital Form Builder Platform
+A secure form creation and digital signing platform.
+
+**Features**
+
+- Drag-and-drop form builder  
+- Digital signatures  
+- QR code sharing  
+- ID uploads  
+- PDF generation  
+
+**Tech:** React, TypeScript, Express, Supabase
+
+---
+
+### 📦 TrackWise IoT Inventory System
+Smart inventory tracking with sensor integration and automated compliance monitoring.
+
+**Tech:** ASP.NET Core, SQL Server, React
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MahlakoMogoane&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahlakoMogoane&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MahlakoMogoane/MahlakoMogoane/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Secure backend architecture
+- Advanced .NET API development
+- Cloud-native application design
+- AI + XR integration
+- High-performance real-time systems
+
+---
+
+# 📫 How to Reach Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/mahlako-mogoane-807268315/
+
+📧 Email  
+mahlakomogoane@outlook.com
+
+🌐 Portfolio  
+https://hellojulia.netlify.app/
+
+---
+
+# ⚡ Fun Fact
+
+I enjoy building systems that combine **real-world data, immersive technology, and secure backend architecture** to create the next generation of digital experiences.
+
+---
+
+⭐ If you like my work, consider following my GitHub to see future projects!
